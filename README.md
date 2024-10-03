@@ -1,4 +1,4 @@
-# Hello! thank you for using SDR!
+# Hello! thank you for using SWE!
 
 ## How to download and import your data
 
@@ -85,9 +85,9 @@ skibidi
 11. __DONT FORGET THE COMMA__
 12. once the files are merged you can save the new txt document
 
-    ### Using the SDR
+    ### Using the SWE
 
-    your going to need the file path of the new merged .json file so right click on the file and press __copy as path__, then go open up SDR and right click on the terminal to paste in the file path. Press enter and choose if u want your top5 or all! (WARNING: if you choose all then it will show you ALLLL your music history for the past year, if if you listend to a song for 1 second it will still pop up, so thats why i added you top 5)
+    your going to need the file path of the new merged .json file so right click on the file and press __copy as path__, then go open up SWE and right click on the terminal to paste in the file path. Press enter and choose if u want your top5 or all! (WARNING: if you choose all then it will show you ALLLL your music history for the past year, if if you listend to a song for 1 second it will still pop up, so thats why i added you top 5)
 
-    (the SDR is sorted by minutes)
+    (the SWE is sorted by minutes)
 
