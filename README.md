@@ -85,7 +85,7 @@ skibidi
 11. __DONT FORGET THE COMMA__
 12. once the files are merged you can save the new txt document
 
-    ### Using the Spotify Data Reader
+### Using the Spotify Data Reader
 
 go into the realases if this github page to install the working Spotify Data Reader!
     
