@@ -99,3 +99,5 @@ In order to use it your going to need to get the file path of the new merged .js
 (this section is only if you regulary listen to local files)
 
 if u import the spotify data and run the .exe properly u might see a artist named 'Local Files" this is simply a place holder for a unknown artist 99% of the time this is because your listening to a song that was imported to spotify thru local files. But I believe that spotify could also output this unkown artist because they got banned or their account got deleted but I still dont know if this is possible.
+
+If you would like to learn more about local files here is a video: https://youtu.be/v-F2lfwQuYg?si=-r-TtH3NvfbWm-kq
